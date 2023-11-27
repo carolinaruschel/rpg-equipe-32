@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58842d09-8d9a-45b1-b0e9-3d5619a4f3c9" name="Changes" comment="Criação da classe Main e do Personagem Luis" />
+    <list default="true" id="58842d09-8d9a-45b1-b0e9-3d5619a4f3c9" name="Changes" comment="Criação da classe Main e do Personagem Luis">
+      <changelist_data name="Guilda" email="luis.henrique.costa07@aluno.ifce.edu.br" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Guilda &lt;luis.henrique.costa07@aluno.ifce.edu.br&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -29,9 +42,6 @@
     }
   ],
   "lastFilter": {
-    "searchQuery": "error: failed to push some refs to 'https://github.com/carolinaruschel/rpg-equipe-32.git' To https://github.com/carolinaruschel/rpg-equipe-32.git hint: Updates were rejected because the tip of your current branch is behind !\trefs/heads/master:refs/heads/master\t[rejected] (non-fast-forward) hint: its remote counterpart. Integrate the remote changes (e.g. Done hint: 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details. ",
-    "state": "OPEN",
-    "assignee": "LuisHenrique0"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings">
@@ -53,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Main-e-PersonagemLuis",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701113136503</updated>
-      <workItem from="1701113137551" duration="1542000" />
+      <workItem from="1701113137551" duration="2327000" />
     </task>
     <task id="LOCAL-00001" summary="Criação da classe Main e do Personagem Luis">
       <option name="closed" value="true" />
@@ -104,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701114535894</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criação da classe Main e do Personagem Luis">
+      <option name="closed" value="true" />
+      <created>1701115205405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701115205405</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

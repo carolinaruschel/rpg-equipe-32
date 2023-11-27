@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dcb02e1e-3720-472e-bc93-f45f64171229" name="RPG" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\luish\OneDrive\Área de Trabalho\RPG" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
